@@ -1,6 +1,5 @@
 # Data Engineering<br>
 **Data Engineering Capstone on data platform for retailer data analytics for an e-commerce organization** <br>
-### Preface
 
 ### Project Documentation
 1. Designed a data platform that uses MySQL as an OLTP database and MongoDB as a NoSQL database.
