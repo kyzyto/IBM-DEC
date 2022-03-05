@@ -1,17 +1,17 @@
-# Data-Engineering<br>
+# Data Engineering<br>
 **Data Engineering Capstone on data platform for retailer data analytics for an e-commerce organization** <br>
 ### Preface
 
 ### Project Documentation
 1. Designed a data platform that uses MySQL as an OLTP database and MongoDB as a NoSQL database.
-  - design the OLTP database for an E-Commerce website, 
-  - populate the OLTP Database with the data provided and 
-  - automate the load/export of the daily incremental data into the data warehouse
+    - design the OLTP database for an E-Commerce website, 
+    - populate the OLTP Database with the data provided and 
+    - automate the load/export of the daily incremental data into the data warehouse
 
 2. Designed and implemented a data warehouse and generated reports from the data.
-  - set up a NoSQL database to store the catalog data for an E-Commerce website, 
-  - load the E-Commerce catalog data into the NoSQL database, and 
-  - query the E-Commerce catalog data in the NoSQL database.
+    - set up a NoSQL database to store the catalog data for an E-Commerce website,
+    - load the E-Commerce catalog data into the NoSQL database, and 
+    - query the E-Commerce catalog data in the NoSQL database.
 
 3. Designed a reporting dashboard that reflects the key metrics of the business.
   - design the schema for a data warehouse based on the schema of the OLTP and NoSQL databases.
@@ -30,3 +30,5 @@
 5. Create a Spark connection to the data warehouse, and then deploy a machine learning model.
   - use big data analytics to create a spark connection to the data warehouse, and 
   - then deploy a machine learning model on SparkML for making sales projections.
+
+Auxillary and Context
