@@ -1,5 +1,5 @@
 ### Primary Tools / Software
-- MySQL server
+- MySQL
 - phpMyAdmin
 
 #### Objective
