@@ -1,7 +1,11 @@
-### MySQL server
+### Primary Tools / Software
+- MySQL server
+- phpMyAdmin
+
+#### Objective
 - Designed schema for OLTP database by storing data like row ID, product ID, customer ID, price, quantity, and time stamp of sale.
 - Loaded the data into the OLP database.
-- Performed some querying.
+- Performed some advanced querying.
 - Automated admin tasks by writing a query to list all the records created in the last 24 hours and thenn export them to a file.
 - Wrote shell/bash script that exports records created in the last 24 hours into another file.
 
