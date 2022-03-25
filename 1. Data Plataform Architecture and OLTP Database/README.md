@@ -1,6 +1,6 @@
 ### Primary Tools / Software
-- MySQL
-- phpMyAdmin
+- <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+- ```phpMyAdmin```
 
 #### Objective
 - Designed schema for OLTP database by storing data like row ID, product ID, customer ID, price, quantity, and time stamp of sale.
