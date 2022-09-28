@@ -45,7 +45,3 @@ Industrial experience in technical skills such as;
 - Developing and Administrating **Data Warehouses**
 - Performing **Data Integration** with platform vendor IBM and exposure to vendors like Talend, SAP, Oracle, and Microsoft
 - Utilized **Business Intelligence** tools to analyze and extract insights
-
-<image src="https://github.com/kyzyto/IBM-DEC/blob/main/IBM-Data_Engineer_professional_certificate.pdf"/>
-
-
